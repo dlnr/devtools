@@ -1,0 +1,9 @@
+:host-context(.platform-mac) {
+  --source-code-font-family: "FiraCode Nerd Font", "Fira Code Retina",
+    "Source Sans Pro", monospace;
+  --source-code-font-size: 1em;
+}
+
+* .cm-line {
+  padding-block: 0.2ex !important;
+}
